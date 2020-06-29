@@ -104,6 +104,7 @@ class Memoization {
     static Map<Integer,Integer> MAPA_FATORIAL = new HashMap<>();
 
     public static void main(String[] args) {
+
         long I = System.nanoTime();
         System.out.println(fatorialComMemoization(15));
         long F = System.nanoTime();
@@ -133,3 +134,36 @@ class Memoization {
         }
     }
 }
+
+/**
+ * Exercicio 08: Qual o problema que pode ocorrer ao utilizar recursividade?
+ *
+ * a) (  ) Deadlook
+ * b) (  ) Starvation
+ * c) (  ) Concorrência
+ * d) ( X ) Estouro de pilha (Stack OverFlow)
+ * e) (  ) Erro de compilação
+ */
+/**
+ * Exercicio 09: É uma técnica de otimização que consiste no cache do
+ * resultado de uma função, baseada nos parâmetros de
+ * entrada, a partir desta afirmação, julgue o item correto.
+ *
+ * a) ( X ) Memoization
+ * b) (  ) Taill Call
+ * c) (  ) Lambda
+ * d) (  ) Paradigma Imperativo
+ * e) (  ) Imutabilidade
+ */
+/**
+ * É uma recursão onde não há nenhuma linha de código após a
+ * chamada do próprio método e, sendo assim, não há nenhum tipo
+ * de processamento a ser feito após a chamada recursivo, a partir
+ * desta afirmação, julgue o item correto.
+ *
+ * a) (  ) Memoization
+ * b) ( X ) Taill Call
+ * c) (  ) Lambda
+ * d) (  ) Paradigma Imperativo
+ * e) (  ) Imutabilidade
+ */
