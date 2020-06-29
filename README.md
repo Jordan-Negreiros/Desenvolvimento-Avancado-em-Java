@@ -19,8 +19,8 @@
  
  #### Aula 03 --- Processamento Assíncrono e Paralelo
  
- - [ ] O que é síncrono e assíncrono
- - [ ] Desenvolvendo uma API de Threads do Java
+ - [x] O que é síncrono e assíncrono
+ - [x] Desenvolvendo uma API de Threads do Java
  - [ ] Execução da API do Java 8
  - [ ] Utilizando o Parallel Streams
  
