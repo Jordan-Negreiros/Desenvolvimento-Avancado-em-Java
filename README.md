@@ -10,12 +10,12 @@
  
  #### Aula 02 --- Interfaces Funcionais
  
- - [ ] Introdução da aula
- - [ ] Facilitando o código da API
- - [ ] Funções de alta ordem
- - [ ] Aprenda sobre parâmetro da função
- - [ ] Iterações entre as funções
- - [ ] Conclusão das funções em Java
+ - [x] Introdução da aula
+ - [x] Facilitando o código da API
+ - [x] Funções de alta ordem
+ - [x] Aprenda sobre parâmetro da função
+ - [x] Iterações entre as funções
+ - [x] Conclusão das funções em Java
  
  #### Aula 03 --- Processamento Assíncrono e Paralelo
  
