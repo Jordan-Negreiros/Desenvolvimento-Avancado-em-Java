@@ -31,9 +31,9 @@
  
  #### Aula 05 --- Novidades do Java 10
  
- - [ ] Aplicando os novos releases da linguagem na prática I
- - [ ] Aplicando os novos releases da linguagem na prática II
- - [ ] Aplicando os novos releases da linguagem na prática III
+ - [x] Aplicando os novos releases da linguagem na prática I
+ - [x] Aplicando os novos releases da linguagem na prática II
+ - [x] Aplicando os novos releases da linguagem na prática III
  
  #### Aula 06 --- Novidades do Java 11
  - [ ] O que mudou no Java 11
