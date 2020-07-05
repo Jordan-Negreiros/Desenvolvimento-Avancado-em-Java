@@ -1,6 +1,6 @@
 ## Curso desenvolvido na plataforma da Digital Innovation One
 
-( Curso em Andamento )
+( Curso Completo )
 
 #### Aula 01 --- Paradigma Funcional no Java
 
@@ -36,6 +36,6 @@
  - [x] Aplicando os novos releases da linguagem na prática III
  
  #### Aula 06 --- Novidades do Java 11
- - [ ] O que mudou no Java 11
- - [ ] Aplicando no código as novas features - Parte I
- - [ ] Aplicando no código as novas features - Parte II
+ - [x] O que mudou no Java 11
+ - [x] Aplicando no código as novas features - Parte I
+ - [x] Aplicando no código as novas features - Parte II
