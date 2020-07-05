@@ -22,12 +22,12 @@
  - [x] O que é síncrono e assíncrono
  - [x] Desenvolvendo uma API de Threads do Java
  - [x] Execução da API do Java 8
- - [ ] Utilizando o Parallel Streams
+ - [x] Utilizando o Parallel Streams
  
  #### Aula 04 --- Por dentro da modularização do Java
  
- - [ ] Entendendo o que é a modularização por meio do jigsaw
- - [ ] Iniciando um projeto com Java Modular
+ - [x] Entendendo o que é a modularização por meio do jigsaw
+ - [x] Iniciando um projeto com Java Modular
  
  #### Aula 05 --- Novidades do Java 10
  

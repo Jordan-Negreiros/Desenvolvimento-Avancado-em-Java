@@ -1,4 +1,4 @@
-package com.java.avancado;
+package com.java.avancado.paradigmaFuncional;
 
 import java.util.Arrays;
 import java.util.function.BiPredicate;

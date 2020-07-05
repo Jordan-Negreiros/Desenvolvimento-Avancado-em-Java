@@ -1,4 +1,4 @@
-package com.java.avancado;
+package com.java.avancado.recursividade;
 
 import java.util.HashMap;
 import java.util.Map;
