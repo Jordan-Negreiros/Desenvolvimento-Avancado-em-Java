@@ -1,4 +1,4 @@
-package threads;
+package com.java.avancado.threads;
 
 /**
  * Thread é um pequeno programa que trabalha como um subsistema,
